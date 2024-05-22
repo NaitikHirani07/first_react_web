@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/NaitikHirani07/first_react_web/static/css/main.bf611353.css",
-    "main.js": "/NaitikHirani07/first_react_web/static/js/main.176d9955.js",
-    "static/js/453.a5c0a9a4.chunk.js": "/NaitikHirani07/first_react_web/static/js/453.a5c0a9a4.chunk.js",
-    "static/media/work_img_2.jpg": "/NaitikHirani07/first_react_web/static/media/work_img_2.c55aba556716020a516c.jpg",
-    "static/media/work_img_4.jpg": "/NaitikHirani07/first_react_web/static/media/work_img_4.9e8b4053f408a88bccd9.jpg",
-    "static/media/about_us.jpg": "/NaitikHirani07/first_react_web/static/media/about_us.a81332b8b4ce3666241e.jpg",
-    "static/media/about_us_layer_1.jpg": "/NaitikHirani07/first_react_web/static/media/about_us_layer_1.c3985d36c344968c7178.jpg",
-    "static/media/work_img_6.jpg": "/NaitikHirani07/first_react_web/static/media/work_img_6.bff4f11ddf9cd748b4a5.jpg",
-    "static/media/work_img_5.jpg": "/NaitikHirani07/first_react_web/static/media/work_img_5.913f85954dd003ace05e.jpg",
-    "static/media/header.jpg": "/NaitikHirani07/first_react_web/static/media/header.73acbc6a05f0a1dd7e00.jpg",
-    "static/media/work_img_1.jpg": "/NaitikHirani07/first_react_web/static/media/work_img_1.13544685e0c4e0118021.jpg",
-    "index.html": "/NaitikHirani07/first_react_web/index.html",
-    "main.bf611353.css.map": "/NaitikHirani07/first_react_web/static/css/main.bf611353.css.map",
-    "main.176d9955.js.map": "/NaitikHirani07/first_react_web/static/js/main.176d9955.js.map",
-    "453.a5c0a9a4.chunk.js.map": "/NaitikHirani07/first_react_web/static/js/453.a5c0a9a4.chunk.js.map"
+    "main.css": "/first_react_web/static/css/main.bccbff6e.css",
+    "main.js": "/first_react_web/static/js/main.005d7072.js",
+    "static/js/453.a5c0a9a4.chunk.js": "/first_react_web/static/js/453.a5c0a9a4.chunk.js",
+    "static/media/work_img_2.jpg": "/first_react_web/static/media/work_img_2.c55aba556716020a516c.jpg",
+    "static/media/work_img_4.jpg": "/first_react_web/static/media/work_img_4.9e8b4053f408a88bccd9.jpg",
+    "static/media/about_us.jpg": "/first_react_web/static/media/about_us.a81332b8b4ce3666241e.jpg",
+    "static/media/about_us_layer_1.jpg": "/first_react_web/static/media/about_us_layer_1.c3985d36c344968c7178.jpg",
+    "static/media/work_img_6.jpg": "/first_react_web/static/media/work_img_6.bff4f11ddf9cd748b4a5.jpg",
+    "static/media/work_img_5.jpg": "/first_react_web/static/media/work_img_5.913f85954dd003ace05e.jpg",
+    "static/media/header.jpg": "/first_react_web/static/media/header.73acbc6a05f0a1dd7e00.jpg",
+    "static/media/work_img_1.jpg": "/first_react_web/static/media/work_img_1.13544685e0c4e0118021.jpg",
+    "index.html": "/first_react_web/index.html",
+    "main.bccbff6e.css.map": "/first_react_web/static/css/main.bccbff6e.css.map",
+    "main.005d7072.js.map": "/first_react_web/static/js/main.005d7072.js.map",
+    "453.a5c0a9a4.chunk.js.map": "/first_react_web/static/js/453.a5c0a9a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf611353.css",
-    "static/js/main.176d9955.js"
+    "static/css/main.bccbff6e.css",
+    "static/js/main.005d7072.js"
   ]
 }
