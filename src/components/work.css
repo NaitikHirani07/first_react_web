@@ -1,0 +1,41 @@
+.work_section{
+    background: url('./../asset/img/about_us_layer_1.jpg');
+}
+
+.work_bottom_section .card .card-body .bxs-up-arrow{
+    top: -50%;
+    left: 45%;
+    font-size: 40px;
+}
+.work_bottom_section .card .card-body h5{
+    color: black;
+    margin: 0;
+}
+.work_bottom_section .card .card-img-top{
+    width: 100%;
+    height: 200px;
+}
+.work_bottom_section .card .card-img-top img {
+    transition: filter 0.3s ease;
+}
+.work_bottom_section .card:hover .card-img-top img {
+    filter: blur(3px);
+}
+.work_bottom_section .card-img-top {
+    position: relative;
+}
+
+.work_bottom_section .plus-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem; /* Adjust size as needed */
+    color: white; /* Adjust color as needed */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.work_bottom_section .card:hover .plus-icon {
+    opacity: 1;
+}

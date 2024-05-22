@@ -1,0 +1,31 @@
+footer{
+    background: url('./../asset/img/footer.jpg');
+}
+footer .container .row .social_media ul{
+    margin: 0;
+}
+footer .container .row .social_media ul li i{
+    background-color: #ffffff50;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+footer .container .row .social_media ul li:hover i.bxl-facebook{
+    background-color: #4267B2;
+    color: white;
+    transition: 0.05s;
+}
+footer .container .row .social_media ul li:hover i.bxl-twitter{
+    background-color: #1DA1F2;
+    color: white;
+    transition: 0.05s;
+}
+footer .container .row .social_media ul li:hover i.bxl-gmail{
+    background-color: #ff4343;
+    color: white;
+    transition: 0.05s;
+}
+footer .container .row .social_media ul li:hover i.bxl-linkedin{
+    background-color: #0e76a8;
+    color: white;
+    transition: 0.05s;
+}

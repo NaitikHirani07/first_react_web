@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row>* {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 0;
+}
+.header ul li{
+  transition: 0.5s;
+}
+.header ul li:hover{
+  background-color: black;
+  transition: 0.5s;
+}

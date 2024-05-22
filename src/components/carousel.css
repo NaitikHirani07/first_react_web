@@ -1,0 +1,133 @@
+.carousel-item {
+    position: relative;
+}
+
+.carousel-item::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .6);
+}
+
+.carousel-caption {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+.carousel-item p {
+    max-width: 700px;
+    margin: 0 auto 35px auto;
+}
+
+@media (max-width: 768px) {
+    .carousel-item {
+        min-height: 490px;
+    }
+
+    .carousel-content h1 {
+        font-size: 20px;
+    }
+
+    .carousel-item img {
+        min-height: 490px;
+        object-fit: fill;
+    }
+
+    .carousel-content-btn1 {
+        margin-bottom: 15px;
+        margin-left: 13px;
+    }
+
+    .carousel-content-btn2 {
+        margin-bottom: 15px;
+    }
+
+    ol li {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 992px) {
+    .carousel-item {
+        min-height: 500px;
+    }
+
+    .carousel-item img {
+        min-height: 500px;
+        object-fit: fill;
+    }
+
+    .carousel-item h1 {
+        font-size: 30px;
+    }
+
+    .carousel-item p {
+        font-size: 16px !important;
+    }
+
+    .team-carousel {
+        margin-top: 3rem;
+    }
+
+    .team-carousel .owl-nav {
+        top: -85px;
+        left: 50%;
+        right: auto;
+        transform: translateX(-50%);
+        margin-left: -15px;
+    }
+}
+
+
+
+.carousel-control-prev {
+    width: 90px;
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background: transparent;
+    border-radius: 0 50px 50px 0;
+    opacity: 1;
+}
+.carousel-control-next {
+    width: 90px;
+    height: 60px;
+    position: absolute;
+    top: 50%;
+    right: 2%;
+    background:transparent;
+    border-radius: 50px 0 0 50px;
+    opacity: 1;
+}
+
+@media (max-width:280px) {
+    .carousel-control-prev {
+        width: 40px !important;
+        height: 35px !important;
+    }
+
+    .carousel-control-next {
+        width: 40px !important;
+        height: 35px !important;
+    }
+
+    .carousel-content h6 {
+        /* margin-top: 10px !important; */
+        font-size: 20px !important;
+    }
+
+    .carousel-content h1 {
+        font-size: 22px !important;
+    }
+
+    .carousel-content p {
+        font-size: 13px !important;
+    }
+}

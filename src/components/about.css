@@ -1,0 +1,69 @@
+.about_section{
+    background: url('/src/asset/img/about_us.jpg');
+    background-size: cover;
+}
+
+.about_des{
+    font-size: 11px;
+}
+.about_button{
+    position: relative;
+}
+.about_button p{
+    background-color: greenyellow;
+}
+.about_button span{
+    position: absolute;
+    top: 80%;
+}
+.about_button span i{
+    color: greenyellow;
+}
+.about_bottom .card{
+    border: none;
+    outline: none;
+    background-color: #00000023;
+    transition: 0.5s;
+}
+.about_bottom .card .card-body p{
+    color: #14b014;
+}
+.about_bottom .card .card-body i{
+    background-color: #ffffff50;
+    border-radius: 100%;
+}
+.about_bottom .card:hover{
+    background-color: #00000060;
+    transition: 0.5s;
+}
+.about_bottom .card:hover .card-img-top i{
+    color: white;
+}
+.about_bottom .card:hover .card-body h5{
+    color: white;
+}
+.about_bottom .card:hover .card-body p{
+    color: #e40303;
+}
+.about_bottom .card:hover .card-body i.bxl-facebook{
+    background-color: #4267B2;
+    color: white;
+}
+.about_bottom .card:hover .card-body i.bxl-twitter{
+    background-color: #1DA1F2;
+    color: white;
+}
+.about_bottom .card:hover .card-body i.bxl-gmail{
+    background-color: #ff4343;
+    color: white;
+}
+.about_bottom .card:hover .card-body i.bxl-linkedin{
+    background-color: #0e76a8;
+    color: white;
+}
+.about_bottom .card-img-top i{
+    font-size: 180px;
+    border: 10px solid rosybrown;
+    border-radius: 50%;
+    padding: 0;
+}
